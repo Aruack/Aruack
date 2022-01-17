@@ -24,7 +24,7 @@
 - Ask me about anything, I will try to give my best to you.
 - Fact: I'm Noob
 - Reach me at [TELEGRAM](https://telegram.dog/Aruack)
-
+- EMAIL: SUPPORT@ARUACK.COM
 
 # MOST USED LANGUAGE
 
@@ -48,7 +48,6 @@
 - My favourite os [kali linux](https://www.kali.org/)
 
 - FOR [Support](https://telegram.dog/Aruacksupport)
-
 
 
 
