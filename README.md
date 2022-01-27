@@ -7,7 +7,7 @@
 
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=D3KRISH&label=Profile%20Views&color=red&style=flat-square" alt="ARUACK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUACK&label=Profile%20Views&color=red&style=flat-square" alt="ARUACK" /> </p>
 
  
 
