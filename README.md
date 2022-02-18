@@ -44,7 +44,7 @@
 - Dell optical 390 & Lenovo Thinkcentre
 
 - Mostly Using VS Code 
-- i love priya
+
 - My favourite os [kali linux](https://www.kali.org/)
 
 - FOR [Support](https://telegram.dog/Aruacksupport)
