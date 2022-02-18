@@ -32,11 +32,9 @@
 
 ### About Me-
 
-- Country- India
+- Student of BCA
 
-### Pro Tip
-
--  If You Copy Someones Works Please Give him/her credits
+- Small boy 
 
 
 ### My Device
