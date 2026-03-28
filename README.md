@@ -6,7 +6,7 @@
 
 
 
-[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/officalkumar)
+[![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/oficalkumar)
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://t.me/ARUACKSUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
@@ -30,7 +30,7 @@
 - Ask me about anything, I will try to give my best to you.
 - Fact: I'm Noob
 - Reach me at [TELEGRAM](https://telegram.dog/Aruack)
-- Contact : [![telegram badge](https://img.shields.io/badge/TEXT-ARYAN-blue)](https://telegram.dog/officalkumar)
+- Contact : [![telegram badge](https://img.shields.io/badge/TEXT-ARYAN-blue)](https://telegram.dog/oficalkumar)
 
 # MOST USED LANGUAGE
 
