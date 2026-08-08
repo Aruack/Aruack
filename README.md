@@ -38,7 +38,7 @@
 
 ### About Me-
 
-- Student of BCA
+- Student
 
 - Small boy 
 
