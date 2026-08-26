@@ -63,3 +63,6 @@
 
 - OUR [wEbSiTE](http://aruack.github.io)
 
+
+[![Follow on GitHub](https://img.shields.io/github/followers/Aruack?label=Follow&style=social)](https://github.com/Aruack)
+
