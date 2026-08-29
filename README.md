@@ -69,26 +69,107 @@
 
 ## 👨‍💻 About Me
 
+<table align="center">
+  <tr>
+    <td align="center" width="55%">
+      <h2>⚡ ARUACK</h2>
+      <p><strong>Aryan Kumar</strong></p>
+      <p>
+        Developer • Cybersecurity Enthusiast<br>
+        OSINT Explorer • Automation Builder
+      </p>
+      <br>
+      <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-09090B?style=for-the-badge&logoColor=3B82F6" alt="Status">
+    </td>
+    <td align="left" width="45%">
+
+```text
+$ whoami
+
+> ARUACK
+> Developer
+> Security Enthusiast
+> OSINT Explorer
+> Automation Builder
+
+$ mission
+
+Build useful things.
+Learn new technology.
+Break. Fix. Improve.
+```
+
+</td>
+
+
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🐍</h3>
+      <strong>Python</strong>
+      <br>
+      <sub>Development & Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔐</h3>
+      <strong>Cybersecurity</strong>
+      <br>
+      <sub>Security & Research</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔎</h3>
+      <strong>OSINT</strong>
+      <br>
+      <sub>Research & Recon</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🐧</h3>
+      <strong>Linux</strong>
+      <br>
+      <sub>CLI & Systems</sub>
+    </td>
+  </tr>
+</table>
+
+### 🚀 What I'm Working On
+
+<table align="center">
+  <tr>
+    <td align="center">🤖</td>
+    <td><strong>Automation</strong><br><sub>Building scripts and tools to simplify repetitive tasks.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td><strong>Web Development</strong><br><sub>Exploring modern web technologies and useful browser extensions.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🔬</td>
+    <td><strong>Security Research</strong><br><sub>Learning security concepts, Linux tools, OSINT, and ethical testing.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🌎</td>
+    <td><strong>Open Source</strong><br><sub>Creating, improving, and sharing useful projects.</sub></td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <strong>Aryan Kumar • ARUACK</strong>
+  <img src="https://img.shields.io/badge/BUILD-3B82F6?style=flat-square&labelColor=09090B" alt="Build">
+  <img src="https://img.shields.io/badge/LEARN-3B82F6?style=flat-square&labelColor=09090B" alt="Learn">
+  <img src="https://img.shields.io/badge/EXPERIMENT-3B82F6?style=flat-square&labelColor=09090B" alt="Experiment">
+  <img src="https://img.shields.io/badge/IMPROVE-3B82F6?style=flat-square&labelColor=09090B" alt="Improve">
 </p>
 
 <p align="center">
-  Developer • Cybersecurity Enthusiast • OSINT Explorer • Automation Builder
+  <strong>⚡ Think differently. Build intelligently. Keep improving.</strong>
 </p>
 
-I enjoy experimenting with technology, understanding how systems work, building useful tools, and turning ideas into practical projects.
-
-### 🔭 Currently Exploring
-
-- 🐍 Python development
-- 🔐 Cybersecurity
-- 🔎 OSINT & reconnaissance
-- 🐧 Linux & Termux
-- 🌐 Web technologies
-- 🤖 Automation
-- 🧩 Browser extensions
-- 🌎 Open-source development
 
 ---
 
@@ -243,31 +324,77 @@ Exploring useful browser extensions for productivity, automation, and everyday w
 
 <table align="center">
   <tr>
-    <th align="center">Device</th>
-    <th align="center">Operating System</th>
-    <th align="center">Purpose</th>
+    <th align="center">🖥️ Device</th>
+    <th align="center">💿 OS</th>
+    <th align="center">🧰 Environment</th>
+    <th align="center">🎯 Use</th>
   </tr>
+
   <tr>
-    <td align="center"><strong>Dell OptiPlex 390</strong></td>
-    <td align="center">Parrot OS</td>
-    <td align="center">Linux Lab • Security Research • Development</td>
+    <td align="center">
+      <strong>Dell OptiPlex 390</strong>
+    </td>
+    <td align="center">
+      🦜 Parrot OS
+    </td>
+    <td align="center">
+      Linux
+    </td>
+    <td align="center">
+      Security • Development
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Lenovo ThinkCentre</strong></td>
-    <td align="center">Kali Linux</td>
-    <td align="center">Cybersecurity • Security Lab • Testing</td>
+    <td align="center">
+      <strong>Lenovo ThinkCentre</strong>
+    </td>
+    <td align="center">
+      🐉 Kali Linux
+    </td>
+    <td align="center">
+      Linux
+    </td>
+    <td align="center">
+      Cybersecurity • Testing
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><strong>ASUS Vivobook Pro 14</strong></td>
-    <td align="center">Windows 11</td>
-    <td align="center">Development • Daily Work • General Computing</td>
+    <td align="center">
+      <strong>ASUS Vivobook Pro 14</strong>
+    </td>
+    <td align="center">
+      🪟 Windows 11
+    </td>
+    <td align="center">
+      Windows
+    </td>
+    <td align="center">
+      Development • Daily Work
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><strong>OnePlus 7 Pro</strong></td>
-    <td align="center">Android • Kali NetHunter</td>
-    <td align="center">Mobile Security Lab • Termux • NetHunter</td>
+    <td align="center">
+      <strong>OnePlus 7 Pro</strong>
+    </td>
+    <td align="center">
+      📱 Android
+    </td>
+    <td align="center">
+      Kali NetHunter • Termux
+    </td>
+    <td align="center">
+      Mobile Security • Testing
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>⚡ ARUACK's personal development & security lab</sub>
+</p>
+
 
 ---
 
