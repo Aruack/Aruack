@@ -1,160 +1,158 @@
-# 🖥️ ARUACK
+# ⚡ ARUACK
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ARUACK&fontAlign=50&fontAlignY=40&color=0:000000,50:0f2027,100:203a43&fontColor=00ffcc&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ARUACK&fontSize=72&fontColor=00FFCC&fontAlignY=40&animation=fadeIn&color=0:050505,50:0B1F1F,100:001414" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=750&lines=Python+Developer;Cybersecurity+Enthusiast;OSINT+%7C+Automation+%7C+Web+Security;Building+Tools+That+Actually+Help;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=800&lines=Developer+%7C+Cybersecurity+Enthusiast;Python+%7C+OSINT+%7C+Automation;Building+Tools+%26+Learning+Every+Day;Think.+Build.+Break.+Fix.+Repeat." />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aruack">
-    <img src="https://img.shields.io/github/followers/Aruack?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ffcc" />
+    <img src="https://img.shields.io/badge/GitHub-ARUACK-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
   </a>
   <a href="https://github.com/Aruack?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00ffcc?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Repositories-Explore-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aruack&style=for-the-badge&color=00ffcc&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Aruack&style=for-the-badge&color=00ffcc&label=VISITORS" />
 </p>
+
+<br>
+
+> **"The best way to learn technology is to build with it."**
 
 ---
 
-## ⚡ `whoami`
+## 🖥️ `$ whoami`
 
-```bash
-┌──(aruack㉿github)-[~/about]
-└─$ whoami
-
-Aryan Kumar
-Alias      : ARUACK
-Role       : Developer / Security Enthusiast
-Focus      : Python • Cybersecurity • OSINT • Automation
-Environment: Linux • Termux • Windows
-Status     : Learning & Building
+```text
+┌──────────────────────────────────────────────────────┐
+│                    ARUACK                            │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  👤 Name       : Aryan Kumar                         │
+│  ⚡ Alias      : ARUACK                               │
+│  💻 Role       : Developer                           │
+│  🔐 Interest   : Cybersecurity / OSINT               │
+│  🐍 Language   : Python                              │
+│  🐧 Environment: Linux / Termux / Windows            │
+│  🚀 Mission    : Build useful things                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 I'm **Aryan Kumar**, known online as **ARUACK**.
 
-I enjoy building software, experimenting with technologies, learning cybersecurity, and creating tools that solve practical problems.
+I'm a developer and technology enthusiast interested in **Python, cybersecurity, OSINT, automation, Linux, and web technologies**.
+
+I enjoy taking an idea, turning it into a working project, testing it, breaking it, fixing it, and learning from the process.
 
 ```text
-┌─────────────────────────────────────────────┐
-│                  ARUACK                     │
-├─────────────────────────────────────────────┤
-│ 🔥 Python & Automation                      │
-│ 🔐 Cybersecurity                            │
-│ 🔎 OSINT & Reconnaissance                   │
-│ 🌐 Web Technologies                         │
-│ 🐧 Linux & Termux                           │
-│ 🧩 Browser Extensions                       │
-│ 🚀 Open Source Development                  │
-└─────────────────────────────────────────────┘
+                    ┌──────────────┐
+                    │    ARUACK    │
+                    └──────┬───────┘
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       BUILD            LEARN           EXPLORE
+          │                │                │
+       Projects         Python          Security
+       Tools            Linux           OSINT
+       Extensions       Git             Web
+       Automation       C/C++           Networks
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+# ⚙️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,chrome,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,chrome,windows" />
 </p>
 
-### Currently Exploring
+---
+
+# 🔐 Security & OSINT
 
 ```text
-Python              █████████████████░░░  85%
-Git & GitHub        █████████████████░░░  85%
-Cybersecurity       ███████████████░░░░░  75%
-OSINT               ███████████████░░░░░  75%
-Linux / Termux      ██████████████░░░░░░  70%
-Web Development     ████████████░░░░░░░░  60%
-C / C++             ██████████░░░░░░░░░░  50%
+                 CYBERSECURITY
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+      OSINT          WEB SEC         LINUX
+       │               │               │
+   Research         HTTP/S          Terminal
+   Footprinting     Testing         Bash
+   Enumeration      Recon           Termux
+       │               │               │
+       └───────────────┼───────────────┘
+                       │
+                  AUTOMATION
+                       │
+                    Python
 ```
 
----
+### Areas I'm exploring
 
-# 🔐 Cybersecurity
+* 🔎 OSINT & reconnaissance
+* 🌐 Web security fundamentals
+* 🐧 Linux & Termux
+* 🐍 Python automation
+* 🌐 Web technologies
+* 🔧 CLI tool development
+* 🧩 Browser extensions
 
-My security interests include:
-
-```text
-Cybersecurity
-│
-├── 🔎 OSINT
-│   ├── Username Research
-│   ├── Digital Footprinting
-│   └── Information Gathering
-│
-├── 🌐 Web Security
-│   ├── HTTP / HTTPS
-│   ├── Web Application Security
-│   └── Security Testing
-│
-├── 🐧 Linux
-│   ├── Terminal
-│   ├── Bash
-│   └── Termux
-│
-└── 🤖 Automation
-    ├── Python Scripts
-    ├── CLI Tools
-    └── Recon Automation
-```
-
-> ⚠️ All security research and testing should be performed only on systems you own or are explicitly authorized to test.
+> ⚠️ Security research should only be performed on systems you own or have explicit authorization to test.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 🔎 Insta OSINT
+### 🔎 Insta OSINT
 
-OSINT-oriented tooling for information gathering and username research.
+OSINT-focused tooling for information gathering and username research.
 
-**Tech:** `Python` `OSINT` `Automation`
-
-🔗 **Repository:**
-https://github.com/Aruack
+`Python` `OSINT` `Automation`
 
 ---
 
-## 🌐 TermuxProxy
+### 🌐 TermuxProxy
 
-A project focused on proxy configuration and networking workflows in Termux/Linux environments.
+Proxy-related tooling for Termux/Linux environments.
 
-**Tech:** `Shell` `Linux` `Termux` `Networking`
+`Termux` `Linux` `Networking` `Shell`
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/Aruack/termuxProxy
 
 ---
 
-## 🧩 Browser Extension Projects
+### 🧩 Browser Extension Projects
 
-Building practical browser extensions designed to improve productivity and solve everyday problems.
+Building practical browser extensions focused on productivity, automation, and everyday use.
 
-**Tech:** `JavaScript` `HTML` `CSS` `Chrome Extensions`
+`JavaScript` `HTML` `CSS` `Chrome Extensions`
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aruack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruack&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aruack&show_icons=true&theme=transparent&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruack&layout=compact&theme=transparent&hide_border=true&title_color=00ffcc&text_color=c9d1d9" width="42%" />
 </p>
 
 ---
@@ -162,7 +160,7 @@ Building practical browser extensions designed to improve productivity and solve
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aruack&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aruack&theme=transparent&hide_border=true&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=00FFCC&dates=8B949E" />
 </p>
 
 ---
@@ -170,76 +168,75 @@ Building practical browser extensions designed to improve productivity and solve
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aruack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aruack&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aruack&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aruack&bg_color=00000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 2026 Mission
+# 🧪 Current Lab
+
+```bash
+┌──(aruack㉿lab)-[~/projects]
+└─$ cat current_focus.txt
+
+[+] Python Development
+[+] Cybersecurity Fundamentals
+[+] OSINT Research
+[+] Linux & Termux
+[+] Automation
+[+] Browser Extensions
+[+] Open Source Projects
+```
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-[✓] Learn Python
-[✓] Explore Git & GitHub
-[✓] Start building tools
-
-[ ] Master Python
-[ ] Improve Cybersecurity skills
-[ ] Build advanced OSINT tools
-[ ] Create useful browser extensions
-[ ] Contribute to open source
-[ ] Build real-world security projects
-[ ] Create something people actually use
+01  ████████████████████  Master Python
+02  █████████████████░░░  Improve Cybersecurity
+03  ████████████████░░░░  Build Advanced Tools
+04  ███████████████░░░░░  Learn Web Development
+05  ██████████████░░░░░░  Contribute to Open Source
+06  █████████████░░░░░░░  Build Useful Extensions
+07  ████████████░░░░░░░░  Create Real-World Projects
 ```
 
 ---
 
-# 💻 Current Mindset
+# 🧩 Developer Philosophy
 
 ```python
-while True:
-
+def developer():
     learn()
-
     build()
-
     experiment()
+    fail()
+    debug()
+    improve()
 
-    break_things()
+    return "repeat"
 
-    fix_them()
-
-    repeat()
+while True:
+    developer()
 ```
 
 ---
 
-# 🤝 Open Source
-
-I believe in:
-
-* 🧠 Learning by building
-* 🔍 Understanding how things work
-* 🛠️ Creating practical tools
-* 🌐 Sharing knowledge
-* 🤝 Contributing to open source
-* 🔐 Responsible security research
-
----
-
-# 📫 Connect With Me
+# 🌐 Find Me
 
 <p align="center">
 
 <a href="https://github.com/Aruack">
-<img src="https://img.shields.io/badge/GitHub-ARUACK-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-ARUACK-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc" />
 </a>
 
 </p>
@@ -248,10 +245,16 @@ I believe in:
 
 <p align="center">
 
-### `>_ Learn • Build • Experiment • Improve`
+### ⚡ `BUILD SOMETHING USEFUL.`
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=120&section=footer" />
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:001414,50:0B1F1F,100:050505&animation=fadeIn" />
 </p>
