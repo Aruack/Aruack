@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0D1117?style=for-the-badge&logo=telegram&logoColor=00FFCC" />
 </a>
 
-<a href="https://github.com/Aruack?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
+<a href="https://www.aruack.online/">
+<img src="https://img.shields.io/badge/WEBSITE-ARUACK.ONLINE-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
 </a>
 
 </p>
@@ -30,7 +30,11 @@
 
 ---
 
+<p align="center">
+
 > **"Think. Build. Break. Fix. Learn."**
+
+</p>
 
 ---
 
@@ -42,6 +46,18 @@
 <td align="center" width="180">
 
 ### ⚡ ARUACK
+
+<br>
+
+`DEVELOPER`
+
+<br>
+
+`SECURITY`
+
+<br>
+
+`OSINT`
 
 </td>
 
@@ -70,13 +86,13 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm **Aryan Kumar**, known online as **ARUACK**.
 
-I'm a developer and technology enthusiast interested in **Python, cybersecurity, OSINT, automation, Linux, and web technologies**.
+I'm a developer and technology enthusiast interested in **Python, cybersecurity, OSINT, automation, Linux, web technologies, and open source**.
 
-I enjoy taking an idea, turning it into a working project, testing it, breaking it, fixing it, and learning from the process.
+I enjoy experimenting with technology, understanding how systems work, building useful tools, and turning ideas into practical projects.
 
 ### 🔭 Currently Exploring
 
@@ -119,7 +135,7 @@ WEB DEVELOPMENT     ████████████░░░░░░░░
 C / C++             ██████████░░░░░░░░░░  50%
 ```
 
-> These are personal learning-progress indicators, not formal certifications or benchmark scores.
+> These are personal learning-progress indicators, not formal certifications.
 
 ---
 
@@ -134,8 +150,11 @@ C / C++             ██████████░░░░░░░░░░
 ### 🔎 OSINT
 
 Username Research
+
 Digital Footprinting
+
 Information Gathering
+
 Reconnaissance
 
 </td>
@@ -145,8 +164,11 @@ Reconnaissance
 ### 🌐 WEB
 
 HTTP / HTTPS
+
 Web Technologies
+
 Security Fundamentals
+
 Testing
 
 </td>
@@ -156,8 +178,11 @@ Testing
 ### 🐧 LINUX
 
 Linux
+
 Bash
+
 Termux
+
 CLI Tools
 
 </td>
@@ -271,29 +296,113 @@ Keep building.
 
 ---
 
-# 📊 GitHub
+# 💻 My Devices
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🖥️ Dell OptiPlex 390
+
+**OS**
+
+🐦 Parrot OS
+
+**Use**
+
+Linux Lab
+Security Research
+Development
+
+</td>
+
+<td align="center" width="33%">
+
+### 🖥️ Lenovo ThinkCentre
+
+**OS**
+
+🐉 Kali Linux
+
+**Use**
+
+Cybersecurity
+Security Lab
+Testing
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 ASUS Vivobook Pro 14
+
+**OS**
+
+🪟 Windows 11
+
+**Use**
+
+Development
+Daily Work
+General Computing
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
 
-<a href="https://github.com/Aruack">
-<img src="https://img.shields.io/github/followers/Aruack?style=for-the-badge&logo=github&label=FOLLOWERS" />
+### 📱 OnePlus 7 Pro
+
+<img src="https://img.shields.io/badge/OnePlus_7_Pro-Android-EB0029?style=for-the-badge&logo=oneplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Kali_NetHunter-Mobile_Security-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FFCC" />
+
+</p>
+
+<p align="center">
+
+`Mobile Security Lab` • `Termux` • `Kali NetHunter`
+
+</p>
+
+---
+
+# 🌐 My Websites
+
+<p align="center">
+
+<a href="https://aruack.github.io">
+<img src="https://img.shields.io/badge/ARUACK.GITHUB.IO-Website-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
 </a>
 
-<a href="https://github.com/Aruack?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github" />
+<a href="https://www.aruack.online/">
+<img src="https://img.shields.io/badge/ARUACK.ONLINE-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
 </a>
 
-<a href="https://github.com/Aruack">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+# 📡 Reach Me
+
+<p align="center">
+
+<a href="https://t.me/oficalkumar">
+<img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Aruack?tab=repositories">
-<img src="https://img.shields.io/badge/⚡_VIEW_ALL_PROJECTS-00FFCC?style=for-the-badge&labelColor=0D1117&color=00FFCC" />
-</a>
+**Telegram:** [@oficalkumar](https://t.me/oficalkumar)
 
 </p>
 
@@ -304,23 +413,67 @@ Keep building.
 <table align="center">
 
 <tr>
-<td>🐍 Master Python</td>
-<td>🔐 Improve Cybersecurity</td>
+
+<td align="center">
+
+🐍 **Master Python**
+
+</td>
+
+<td align="center">
+
+🔐 **Improve Cybersecurity**
+
+</td>
+
 </tr>
 
 <tr>
-<td>🚀 Build Advanced Tools</td>
-<td>🌐 Improve Web Development</td>
+
+<td align="center">
+
+🚀 **Build Advanced Tools**
+
+</td>
+
+<td align="center">
+
+🌐 **Improve Web Development**
+
+</td>
+
 </tr>
 
 <tr>
-<td>🔎 Explore OSINT</td>
-<td>🌎 Contribute to Open Source</td>
+
+<td align="center">
+
+🔎 **Explore OSINT**
+
+</td>
+
+<td align="center">
+
+🌎 **Contribute to Open Source**
+
+</td>
+
 </tr>
 
 <tr>
-<td>🧩 Build Useful Extensions</td>
-<td>💡 Create Real-World Projects</td>
+
+<td align="center">
+
+🧩 **Build Useful Extensions**
+
+</td>
+
+<td align="center">
+
+💡 **Create Real-World Projects**
+
+</td>
+
 </tr>
 
 </table>
@@ -368,35 +521,37 @@ print(me.mindset())
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Aruack">
-<img src="https://img.shields.io/badge/GITHUB-ARUACK-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
-</a>
-
-<a href="https://t.me/oficalkumar">
-<img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0D1117?style=for-the-badge&logo=telegram&logoColor=00FFCC" />
-</a>
-
-</p>
-
-<p align="center">
-
-💬 **Telegram:** [@oficalkumar](https://t.me/oficalkumar)
-
-</p>
-
----
-
 # ⭐ Support My Work
 
 If you find one of my projects useful:
 
-`⭐ Star` • `🍴 Fork` • `🐛 Report` • `💡 Suggest` • `🤝 Contribute`
+<p align="center">
+
+`⭐ Star`   •   `🍴 Fork`   •   `🐛 Report`   •   `💡 Suggest`   •   `🤝 Contribute`
+
+</p>
 
 Every star, contribution, and useful feedback helps.
+
+---
+
+# 🌐 Explore ARUACK
+
+<p align="center">
+
+<a href="https://github.com/Aruack?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_MY_PROJECTS-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
+</a>
+
+<a href="https://www.aruack.online/">
+<img src="https://img.shields.io/badge/🌐_MY_WEBSITE-VISIT-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
+</a>
+
+<a href="https://t.me/oficalkumar">
+<img src="https://img.shields.io/badge/💬_TELEGRAM-CONTACT-0D1117?style=for-the-badge&logo=telegram&logoColor=00FFCC" />
+</a>
+
+</p>
 
 ---
 
