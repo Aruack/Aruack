@@ -402,11 +402,7 @@ General Computing
 
 </p>
 
-<p align="center">
-
-**Telegram:** [@oficalkumar](https://t.me/oficalkumar)
-
-</p>
+<p align="center"> **Telegram:** [@oficalkumar](https://t.me/oficalkumar) </p>
 
 ---
 
