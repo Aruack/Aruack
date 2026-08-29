@@ -1,6 +1,3 @@
-Here is the complete, raw Markdown code using your exact template layout, fully styled with the dark charcoal (`#09090B`, `#18181B`) and electric blue (`#3B82F6`) palette from **aruack.online**:
-
-```markdown
 # ⚡ ARUACK
 
 <p align="center">
@@ -455,35 +452,3 @@ class ARUACK:
 
 
 print(ARUACK.mindset())
-
-```
-
----
-
-# ⭐ Support My Work
-
-If you find my projects useful:
-
-⭐ Star
-•
-
-🍴 Fork
-•
-
-🐛 Report
-•
-
-💡 Suggest
-•
-
-🤝 Contribute
-
----
-
-# 🌐 Explore ARUACK
-
----
-
-### 💙 `BUILD SOMETHING USEFUL.`
-
-ARUACK © 2026
