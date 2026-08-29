@@ -1,38 +1,48 @@
 # ⚡ ARUACK
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ARUACK&fontSize=78&fontColor=00FFCC&fontAlignY=38&animation=fadeIn&color=0:020404,45:071515,100:001F1F" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ARUACK&fontSize=72&fontColor=F5F1E8&fontAlignY=40&animation=fadeIn&color=0:050505,50:111111,100:2A2110"
+    width="100%"
+    alt="ARUACK"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=850&lines=DEVELOPER+%7C+SECURITY+ENTHUSIAST;PYTHON+%7C+OSINT+%7C+AUTOMATION;LINUX+%7C+WEB+%7C+OPEN+SOURCE;BUILDING.+BREAKING.+FIXING.+LEARNING." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=780&lines=DEVELOPER+%7C+SECURITY+ENTHUSIAST;PYTHON+%7C+OSINT+%7C+AUTOMATION;LINUX+%7C+WEB+%7C+OPEN+SOURCE;BUILDING+%7C+LEARNING+%7C+IMPROVING"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Aruack">
-<img src="https://img.shields.io/badge/GITHUB-ARUACK-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/GitHub-ARUACK-080808?style=for-the-badge&logo=github&logoColor=D4AF37" />
 </a>
 
 <a href="https://t.me/oficalkumar">
-<img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0D1117?style=for-the-badge&logo=telegram&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/Telegram-@oficalkumar-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF" />
 </a>
 
 <a href="https://www.aruack.online/">
-<img src="https://img.shields.io/badge/WEBSITE-ARUACK.ONLINE-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
+<img src="https://img.shields.io/badge/Website-ARUACK.ONLINE-080808?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aruack&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Aruack&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 </p>
 
 ---
 
 <p align="center">
 
-> **"Think. Build. Break. Fix. Learn."**
+### `Think • Build • Break • Fix • Learn`
 
 </p>
 
@@ -40,47 +50,30 @@
 
 ## 🖥️ `$ whoami`
 
-<table align="center">
-<tr>
+<p align="center">
 
-<td align="center" width="180">
+<img src="https://img.shields.io/badge/NAME-Aryan_Kumar-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
+<img src="https://img.shields.io/badge/ALIAS-ARUACK-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
 
-### ⚡ ARUACK
-
-<br>
-
-`DEVELOPER`
-
-<br>
-
-`SECURITY`
-
-<br>
-
-`OSINT`
-
-</td>
-
-<td>
-
-**👤 Name:** Aryan Kumar
-**⚡ Alias:** ARUACK
-**💻 Role:** Developer
-**🔐 Focus:** Cybersecurity
-**🔎 Interests:** OSINT • Automation
-**🐍 Primary:** Python
-**🐧 Environment:** Linux • Termux • Windows
-**🌐 Platform:** GitHub
-**🟢 Status:** `ONLINE`
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
-`Think` → `Build` → `Break` → `Fix` → `Learn`
+<img src="https://img.shields.io/badge/ROLE-DEVELOPER-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PRIMARY-PYTHON-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
+<img src="https://img.shields.io/badge/INTERESTS-OSINT_%7C_AUTOMATION-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX_%7C_TERMUX_%7C_WINDOWS-080808?style=for-the-badge&labelColor=2A2110&color=D4AF37" />
 
 </p>
 
@@ -88,9 +81,17 @@
 
 # 👨‍💻 About Me
 
-I'm **Aryan Kumar**, known online as **ARUACK**.
+<p align="center">
 
-I'm a developer and technology enthusiast interested in **Python, cybersecurity, OSINT, automation, Linux, web technologies, and open source**.
+<b>Aryan Kumar</b> • <b>ARUACK</b>
+
+</p>
+
+<p align="center">
+
+Developer • Cybersecurity Enthusiast • OSINT Explorer • Automation Builder
+
+</p>
 
 I enjoy experimenting with technology, understanding how systems work, building useful tools, and turning ideas into practical projects.
 
@@ -112,279 +113,200 @@ I enjoy experimenting with technology, understanding how systems work, building 
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css" />
+  <img
+    src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css"
+    alt="Programming languages"
+  />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,windows,chrome" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,windows,chrome"
+    alt="Tools and platforms"
+  />
 </p>
 
 ---
 
-# 🧠 Skill Matrix
+# 🧠 Skills
 
-```text
-PYTHON              █████████████████░░░  85%
-GIT / GITHUB        █████████████████░░░  85%
-OSINT               ███████████████░░░░░  75%
-CYBERSECURITY       ███████████████░░░░░  75%
-LINUX / TERMUX      ██████████████░░░░░░  70%
-WEB DEVELOPMENT     ████████████░░░░░░░░  60%
-C / C++             ██████████░░░░░░░░░░  50%
-```
+<p align="center">
 
-> These are personal learning-progress indicators, not formal certifications.
+<img src="https://img.shields.io/badge/Python-85%25-080808?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Git_%26_GitHub-85%25-080808?style=for-the-badge&logo=github&logoColor=D4AF37" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OSINT-75%25-080808?style=for-the-badge&logo=protonmail&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Cybersecurity-75%25-080808?style=for-the-badge&logo=kalilinux&logoColor=D4AF37" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux_%2F_Termux-70%25-080808?style=for-the-badge&logo=linux&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Web_Development-60%25-080808?style=for-the-badge&logo=html5&logoColor=D4AF37" />
+
+</p>
 
 ---
 
 # 🔐 Security Lab
 
-<table align="center">
-
-<tr>
-
-<td align="center" width="33%">
+<p align="center">
 
 ### 🔎 OSINT
 
-Username Research
+Username Research • Digital Footprinting • Reconnaissance
 
-Digital Footprinting
+<br /><br />
 
-Information Gathering
+### 🌐 Web Security
 
-Reconnaissance
+HTTP/HTTPS • Web Technologies • Security Fundamentals
 
-</td>
+<br /><br />
 
-<td align="center" width="33%">
+### 🐧 Linux
 
-### 🌐 WEB
+Linux • Bash • Termux • CLI
 
-HTTP / HTTPS
-
-Web Technologies
-
-Security Fundamentals
-
-Testing
-
-</td>
-
-<td align="center" width="33%">
-
-### 🐧 LINUX
-
-Linux
-
-Bash
-
-Termux
-
-CLI Tools
-
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
+<br /><br />
 
 ### 🤖 Automation
 
-`Python` • `CLI Tools` • `Scripts` • `Automation`
+Python • Scripts • CLI Tools
 
 </p>
 
-> ⚠️ Security research should only be conducted on systems, applications, or accounts where you have explicit authorization.
+> ⚠️ Security research should only be performed on systems, applications, or accounts where you have explicit authorization.
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-<table>
+<p align="center">
 
-<tr>
-
-<td width="50%">
-
-## 🔎 Insta OSINT
+### 🔎 Insta OSINT
 
 OSINT-oriented tooling focused on information gathering and username research.
 
-**Stack**
+<br />
 
-`Python` `OSINT` `Automation`
+`Python` • `OSINT` • `Automation`
 
-</td>
+</p>
 
-<td width="50%">
+---
 
-## 🌐 TermuxProxy
+<p align="center">
+
+### 🌐 TermuxProxy
 
 Proxy-related tooling for Termux/Linux environments.
 
-**Stack**
+<br />
 
-`Termux` `Linux` `Shell` `Networking`
+`Termux` • `Linux` • `Shell` • `Networking`
 
-<br>
+<br /><br />
 
 <a href="https://github.com/Aruack/termuxProxy">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FFCC?style=for-the-badge&logo=github&logoColor=black" />
+<img
+src="https://img.shields.io/badge/VIEW_PROJECT-D4AF37?style=for-the-badge&logo=github&logoColor=080808"
+alt="View TermuxProxy"
+/>
 </a>
 
-</td>
+</p>
 
-</tr>
+---
 
-<tr>
+<p align="center">
 
-<td width="50%">
-
-## 🧩 Browser Extensions
+### 🧩 Browser Extension Lab
 
 Exploring useful browser extensions for productivity, automation, and everyday workflows.
 
-**Stack**
+<br />
 
-`JavaScript` `HTML` `CSS`
+`JavaScript` • `HTML` • `CSS`
 
-</td>
-
-<td width="50%">
-
-## 🚀 More Coming
-
-More open-source projects, experiments, tools, and automation projects are being developed.
-
-**Status**
-
-`BUILDING...`
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
 # 🧪 Current Lab
 
-```bash
-┌──(aruack㉿lab)-[~/projects]
-└─$ cat current_focus.txt
+<p align="center">
 
-[+] Python
-[+] Cybersecurity
-[+] OSINT
-[+] Linux / Termux
-[+] Automation
-[+] Browser Extensions
-[+] Open Source
-[+] New Ideas
+<img src="https://img.shields.io/badge/PYTHON-ACTIVE-080808?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-080808?style=for-the-badge&logo=kalilinux&logoColor=D4AF37" />
 
-┌──(aruack㉿lab)-[~/projects]
-└─$ echo "Keep building."
+</p>
 
-Keep building.
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/OSINT-ACTIVE-080808?style=for-the-badge&logo=protonmail&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/LINUX-ACTIVE-080808?style=for-the-badge&logo=linux&logoColor=D4AF37" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-080808?style=for-the-badge&logo=githubactions&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-ACTIVE-080808?style=for-the-badge&logo=opensourceinitiative&logoColor=D4AF37" />
+
+</p>
 
 ---
 
 # 💻 My Devices
 
-<table align="center">
-
-<tr>
-
-<td align="center" width="33%">
+<p align="center">
 
 ### 🖥️ Dell OptiPlex 390
 
-**OS**
+**Parrot OS**
 
-🐦 Parrot OS
+`Linux Lab` • `Security Research` • `Development`
 
-**Use**
+</p>
 
-Linux Lab
-Security Research
-Development
-
-</td>
-
-<td align="center" width="33%">
+<p align="center">
 
 ### 🖥️ Lenovo ThinkCentre
 
-**OS**
+**Kali Linux**
 
-🐉 Kali Linux
+`Cybersecurity` • `Security Lab` • `Testing`
 
-**Use**
+</p>
 
-Cybersecurity
-Security Lab
-Testing
-
-</td>
-
-<td align="center" width="33%">
+<p align="center">
 
 ### 💻 ASUS Vivobook Pro 14
 
-**OS**
+**Windows 11**
 
-🪟 Windows 11
+`Development` • `Daily Work` • `General Computing`
 
-**Use**
-
-Development
-Daily Work
-General Computing
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+</p>
 
 <p align="center">
 
 ### 📱 OnePlus 7 Pro
 
-<img src="https://img.shields.io/badge/OnePlus_7_Pro-Android-EB0029?style=for-the-badge&logo=oneplus&logoColor=white" />
+<img src="https://img.shields.io/badge/OnePlus_7_Pro-080808?style=for-the-badge&logo=oneplus&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Kali_NetHunter-080808?style=for-the-badge&logo=kalilinux&logoColor=D4AF37" />
 
-<img src="https://img.shields.io/badge/Kali_NetHunter-Mobile_Security-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FFCC" />
-
-</p>
-
-<p align="center">
+<br /><br />
 
 `Mobile Security Lab` • `Termux` • `Kali NetHunter`
-
-</p>
-
----
-
-# 🌐 My Websites
-
-<p align="center">
-
-<a href="https://aruack.github.io">
-<img src="https://img.shields.io/badge/ARUACK.GITHUB.IO-Website-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
-</a>
-
-<a href="https://www.aruack.online/">
-<img src="https://img.shields.io/badge/ARUACK.ONLINE-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
-</a>
 
 </p>
 
@@ -395,141 +317,164 @@ General Computing
 <p align="center">
 
 <a href="https://t.me/oficalkumar">
-</p>
-  <p align="center">
-<img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+<img
+src="https://img.shields.io/badge/Telegram-@oficalkumar-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF"
+alt="Telegram"
+/>
 </a>
 
 </p>
 
-<p align="center"> **Telegram:** [@oficalkumar](https://t.me/oficalkumar) </p>
+---
+
+# 📢 Support Group & Channel
+
+<p align="center">
+
+<a href="https://t.me/Aruacksupport">
+<img
+src="https://img.shields.io/badge/SUPPORT_GROUP-JOIN-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF"
+alt="Support Group"
+/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://t.me/Aruack">
+<img
+src="https://img.shields.io/badge/SUPPORT_CHANNEL-JOIN-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF"
+alt="Support Channel"
+/>
+</a>
+
+</p>
+
+<p align="center">
+
+<b>Support Group:</b> <a href="https://t.me/Aruacksupport">Aruack Support</a>
+
+<br />
+
+<b>Support Channel:</b> <a href="https://t.me/Aruack">Aruack</a>
+
+</p>
+
+---
+
+# 🌍 My Websites
+
+<p align="center">
+
+<a href="https://aruack.github.io">
+<img
+src="https://img.shields.io/badge/ARUACK.GITHUB.IO-VISIT-080808?style=for-the-badge&logo=github&logoColor=D4AF37"
+alt="Aruack GitHub Website"
+/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.aruack.online/">
+<img
+src="https://img.shields.io/badge/ARUACK.ONLINE-VISIT-080808?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"
+alt="Aruack Online"
+/>
+</a>
+
+</p>
 
 ---
 
 # 🎯 2026 Mission
 
-<table align="center">
+<p align="center">
 
-<tr>
+🐍 <b>Master Python</b>
+  •  
+🔐 <b>Improve Cybersecurity</b>
 
-<td align="center">
+</p>
 
-🐍 **Master Python**
+<p align="center">
 
-</td>
+🔎 <b>Explore OSINT</b>
+  •  
+🚀 <b>Build Advanced Tools</b>
 
-<td align="center">
+</p>
 
-🔐 **Improve Cybersecurity**
+<p align="center">
 
-</td>
+🌐 <b>Improve Web Development</b>
+  •  
+🧩 <b>Build Useful Extensions</b>
 
-</tr>
+</p>
 
-<tr>
+<p align="center">
 
-<td align="center">
+🌎 <b>Contribute to Open Source</b>
 
-🚀 **Build Advanced Tools**
-
-</td>
-
-<td align="center">
-
-🌐 **Improve Web Development**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🔎 **Explore OSINT**
-
-</td>
-
-<td align="center">
-
-🌎 **Contribute to Open Source**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🧩 **Build Useful Extensions**
-
-</td>
-
-<td align="center">
-
-💡 **Create Real-World Projects**
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
 # 🧬 Developer DNA
 
-```python
+```python id="f9lq5r"
 class ARUACK:
 
-    def __init__(self):
-        self.name = "Aryan Kumar"
-        self.alias = "ARUACK"
+    name = "Aryan Kumar"
+    alias = "ARUACK"
 
-        self.languages = [
-            "Python",
-            "C",
-            "C++",
-            "JavaScript"
-        ]
+    languages = [
+        "Python",
+        "C",
+        "C++",
+        "JavaScript"
+    ]
 
-        self.interests = [
-            "Cybersecurity",
-            "OSINT",
-            "Automation",
-            "Linux",
-            "Web Development"
-        ]
+    interests = [
+        "Cybersecurity",
+        "OSINT",
+        "Automation",
+        "Linux",
+        "Web Development"
+    ]
 
-    def learn(self):
-        return "Always learning"
-
-    def build(self):
-        return "Always building"
-
-    def mindset(self):
+    @staticmethod
+    def mindset():
         return "Think. Build. Break. Fix. Repeat."
 
 
-me = ARUACK()
-
-print(me.mindset())
+print(ARUACK.mindset())
 ```
 
 ---
 
 # ⭐ Support My Work
 
-If you find one of my projects useful:
-
 <p align="center">
 
-`⭐ Star`   •   `🍴 Fork`   •   `🐛 Report`   •   `💡 Suggest`   •   `🤝 Contribute`
+If you find my projects useful:
+
+<br /><br />
+
+⭐ <b>Star</b>
+  •  
+🍴 <b>Fork</b>
+  •  
+🐛 <b>Report</b>
+  •  
+💡 <b>Suggest</b>
+  •  
+🤝 <b>Contribute</b>
 
 </p>
-
-Every star, contribution, and useful feedback helps.
 
 ---
 
@@ -538,15 +483,32 @@ Every star, contribution, and useful feedback helps.
 <p align="center">
 
 <a href="https://github.com/Aruack?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_MY_PROJECTS-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC" />
+<img
+src="https://img.shields.io/badge/MY_PROJECTS-EXPLORE-080808?style=for-the-badge&logo=github&logoColor=D4AF37"
+alt="My Projects"
+/>
 </a>
+
+</p>
+
+<p align="center">
 
 <a href="https://www.aruack.online/">
-<img src="https://img.shields.io/badge/🌐_MY_WEBSITE-VISIT-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFCC" />
+<img
+src="https://img.shields.io/badge/MY_WEBSITE-VISIT-080808?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"
+alt="My Website"
+/>
 </a>
 
+</p>
+
+<p align="center">
+
 <a href="https://t.me/oficalkumar">
-<img src="https://img.shields.io/badge/💬_TELEGRAM-CONTACT-0D1117?style=for-the-badge&logo=telegram&logoColor=00FFCC" />
+<img
+src="https://img.shields.io/badge/TELEGRAM-CONTACT-080808?style=for-the-badge&logo=telegram&logoColor=D4AF37"
+alt="Telegram Contact"
+/>
 </a>
 
 </p>
@@ -555,22 +517,18 @@ Every star, contribution, and useful feedback helps.
 
 <p align="center">
 
-### ⚡ `BUILD SOMETHING USEFUL.`
+### 🖤 `BUILD SOMETHING USEFUL.`
+
+<br />
+
+<b>ARUACK © 2026</b>
 
 </p>
 
 <p align="center">
-
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-</p>
-
-<p align="center">
-
-**ARUACK © 2026**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:001F1F,50:071515,100:020404&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2A2110,50:111111,100:050505"
+    width="100%"
+    alt="Footer"
+  />
 </p>
