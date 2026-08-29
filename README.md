@@ -32,7 +32,7 @@
 ├──────────────────────────────────────────────────────┤
 │                                                      │
 │  👤 Name       : Aryan Kumar                         │
-│  ⚡ Alias      : ARUACK                               │
+│  ⚡ Alias      : ARUACK                              │
 │  💻 Role       : Developer                           │
 │  🔐 Interest   : Cybersecurity / OSINT               │
 │  🐍 Language   : Python                              │
