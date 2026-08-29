@@ -395,6 +395,8 @@ General Computing
 <p align="center">
 
 <a href="https://t.me/oficalkumar">
+</p>
+  <p align="center">
 <img src="https://img.shields.io/badge/TELEGRAM-@oficalkumar-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
