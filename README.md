@@ -479,11 +479,28 @@ Exploring useful browser extensions for productivity, automation, and everyday w
 ## 🧬 Developer DNA
 
 ```python
+
+import time
 class ARUACK:
 
+    # ─────────────────────────────────────
+    # Identity
+    # ─────────────────────────────────────
     name = "Aryan Kumar"
     alias = "ARUACK"
+    role = "Developer"
+    focus = "Cybersecurity"
 
+    # ─────────────────────────────────────
+    # Social & Web
+    # ─────────────────────────────────────
+    github = "Aruack"
+    telegram = "@oficalkumar"
+    website = "https://www.aruack.online/"
+
+    # ─────────────────────────────────────
+    # Core Stack
+    # ─────────────────────────────────────
     languages = [
         "Python",
         "C",
@@ -491,20 +508,65 @@ class ARUACK:
         "JavaScript"
     ]
 
+    tools = [
+        "Git",
+        "GitHub",
+        "Linux",
+        "Termux",
+        "VS Code"
+    ]
+
     interests = [
         "Cybersecurity",
         "OSINT",
         "Automation",
         "Linux",
-        "Web Development"
+        "Web Development",
+        "Open Source"
+    ]
+
+    # ─────────────────────────────────────
+    # Developer Mindset
+    # ─────────────────────────────────────
+    mindset = [
+        "Think",
+        "Build",
+        "Test",
+        "Break",
+        "Fix",
+        "Learn",
+        "Repeat"
     ]
 
     @staticmethod
-    def mindset():
-        return "Think. Build. Break. Fix. Repeat."
+    def mission():
+        return "Think → Build → Break → Fix → Learn → Repeat"
+
+    @staticmethod
+    def vanish():
+        time.sleep(20)
 
 
-print(ARUACK.mindset())
+if __name__ == "__main__":
+
+    print("⚡ ARUACK")
+    print("─" * 32)
+
+    print(f"Name     : {ARUACK.name}")
+    print(f"Alias    : {ARUACK.alias}")
+    print(f"Role     : {ARUACK.role}")
+    print(f"Focus    : {ARUACK.focus}")
+    print(f"GitHub   : @{ARUACK.github}")
+    print(f"Telegram : {ARUACK.telegram}")
+    print(f"Website  : {ARUACK.website}")
+
+    print("─" * 32)
+    print(f"Mindset  : {ARUACK.mission()}")
+
+    ARUACK.vanish()
+
+
+
 ```
 
 ---
